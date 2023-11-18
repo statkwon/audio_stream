@@ -1,4 +1,8 @@
 # Audio Stream Example
+## Requirements
+```zsh
+brew install portaudio
+```
 
 ## References
 - https://github.com/mreineck/pocketfft

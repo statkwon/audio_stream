@@ -15,8 +15,6 @@ public:
     void start();
 
     void stop();
-
-    void handle_error() const;
 };
 
 #endif //AISE_AUDIO_H

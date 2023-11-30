@@ -1,5 +1,4 @@
 #include <iostream>
-#include "fft.h"
 #include "audio.h"
 
 static int streamCallback(const void *input,

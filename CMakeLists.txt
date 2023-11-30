@@ -10,6 +10,5 @@ link_directories(${PORTAUDIO_DIR}/lib)
 add_executable(audio_stream main.cpp
         audio.cpp
         audio.h
-        fft.h
 )
 target_link_libraries(audio_stream portaudio)
